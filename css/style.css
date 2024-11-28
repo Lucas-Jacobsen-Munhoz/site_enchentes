@@ -4686,6 +4686,11 @@ html.boxed body {
 
 .text-primary {
 	color: #7ABCE8 !important;
+	text-shadow: 2px 2px #000;
+}
+
+.shadow {
+	text-shadow: 2px 2px #000;
 }
 
 .text-gray-700 {
@@ -5061,6 +5066,7 @@ html [class*='section-'].section-bottom-0 {
 
 .section-page-title {
 	padding: 80px 0;
+	text-shadow: 2px 2px #000;
 }
 
 .section-filter-white {
