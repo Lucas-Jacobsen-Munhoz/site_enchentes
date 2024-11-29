@@ -50,16 +50,7 @@
 
 <br><br><br>
 
-> 🔧 BANCO DE DADOS
 
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-          
-<img witdh = "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-          
-
-<br><br><br>
 
 > 👨‍💼 AMBIENTE DE TRABALHO
 
@@ -94,7 +85,7 @@
 | Inicio do projeto   | 10/09/2024 | Inicio da concepção do site       |
 | Fase 1              | DD/MM/AAAA | Desenvolvimento do protótipo      |
 | Fase 2              | DD/MM/AAAA | Implementação das funcionalidades |
-| Finalização         | DD/MM/AAAA | Ajustes finais e testes           |
+| Finalização         | 29/11/2024 | Ajustes finais e testes           |
 
 <br><br><br>
 
